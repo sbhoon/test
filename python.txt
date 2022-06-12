@@ -1,0 +1,18 @@
+아나콘다 다운
+
+-- 가상 환경
+
+conda create -n text python=3.9
+conda activate text
+conda deactivate
+
+
+--  라이브러리
+conda install pandas
+conda install numpy
+conda install scikit-lean
+conda install jupyter
+conda install matplotlib
+conda install tensforflow
+conda install ipykernel
+
