@@ -15,4 +15,5 @@ conda install jupyter
 conda install matplotlib
 conda install tensforflow
 conda install ipykernel
+conda install matplotlib
 
