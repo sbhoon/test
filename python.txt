@@ -13,7 +13,11 @@ conda install numpy
 conda install scikit-lean
 conda install jupyter
 conda install matplotlib
-conda install tensforflow
 conda install ipykernel
-conda install matplotlib
-
+conda install scikit-learn
+conda install xlwt
+conda install openpyxl
+conda install seaborn
+conda install tensorflow
+pip install tensorflow
+conda install keras
